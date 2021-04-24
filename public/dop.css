@@ -1,0 +1,19 @@
+.add-form{
+    margin-bottom: 30px;
+}
+
+.add-form__title{
+    color: white;
+    margin-bottom: 10px;
+}
+
+.add-form__file-input{
+    border: none;
+    background: grey;
+    color: #fff;
+    padding: 1px;
+    border-radius: 4px;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
